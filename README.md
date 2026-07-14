@@ -1,5 +1,13 @@
 # 💫 About Me:
-🌱 I'm currently pursuing a B.Tech in Artificial Intelligence and Data Science at Chennai Institute of Technology (CIT), where I'm building expertise in AI, Machine Learning, Data Science, and Software Development.<br><br>👯 I'm looking to collaborate on<br>- Open Source AI/ML Projects<br>- FastAPI Backend Development<br>- AI Agents and Generative AI Applications<br><br>🤝 I'm looking for help with<br>- Open Source Contributions<br>- MLOps & Cloud Deployment<br>- Scalable AI System Design<br><br>📚 I'm currently learning<br>- Machine Learning & Deep Learning<br>- FastAPI & Backend Development<br>- Data Structures and Algorithms<br>- Agentic AI, RAG, and LLM Applications<br>- Docker & Cloud Deployment<br><br>💬 Ask me about<br>- Python<br>- Machine Learning<br>- Artificial Intelligence<br>- FastAPI<br>- Data Structures & Algorithms<br>- Git & GitHub<br><br>⚡ Fun fact<br>I enjoy turning AI ideas into real-world applications and solving coding challenges on LeetCode.
+🌱 B.Tech AI & Data Science student at Chennai Institute of Technology (CIT).
+
+👯 Open to collaborating on AI/ML, Open Source, and Backend projects.
+
+🚀 Currently learning Machine Learning, FastAPI, DSA, Agentic AI, and Cloud.
+
+💬 Ask me about Python, AI/ML, FastAPI, Git, and DSA.
+
+⚡ I love building AI applications and solving LeetCode problems.
 
 
 ## 🌐 Socials:
