@@ -1,13 +1,13 @@
 # 💫 About Me:
 🌱 B.Tech AI & Data Science student at Chennai Institute of Technology (CIT).
 
-👯 Open to collaborating on AI/ML, Open Source, and Backend projects.
+👯 Open to collaborating on AI/ML, Full-Stack Development, and Open Source projects.
 
-🚀 Currently learning Machine Learning, Data Structures & Algorithms, Cybersecurity (OWASP & Ethical Hacking), Agentic AI, and Cloud.
+🚀 Currently learning Data Science Essentials, Full-Stack Development, Data Structures & Algorithms, Cybersecurity (OWASP & Ethical Hacking), Agentic AI, and Cloud Computing.
 
 💬 Ask me about Python, AI/ML, Git, GitHub, and DSA.
 
-⚡ I love building AI applications and solving coding challenges on LeetCode.
+⚡ I enjoy building AI-powered applications, exploring cybersecurity, and solving coding challenges on LeetCode.
 
 
 ## 🌐 Socials:
