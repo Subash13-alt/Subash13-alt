@@ -3,11 +3,11 @@
 
 👯 Open to collaborating on AI/ML, Open Source, and Backend projects.
 
-🚀 Currently learning Machine Learning, FastAPI, DSA, Agentic AI, and Cloud.
+🚀 Currently learning Machine Learning, Data Structures & Algorithms, Cybersecurity (OWASP & Ethical Hacking), Agentic AI, and Cloud.
 
-💬 Ask me about Python, AI/ML, FastAPI, Git, and DSA.
+💬 Ask me about Python, AI/ML, Git, GitHub, and DSA.
 
-⚡ I love building AI applications and solving LeetCode problems.
+⚡ I love building AI applications and solving coding challenges on LeetCode.
 
 
 ## 🌐 Socials:
